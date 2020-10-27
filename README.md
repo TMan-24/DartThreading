@@ -1,7 +1,5 @@
-#################
+Threading Assignment
 
-Threading
-################
 
 // DISCLAIMER //
 
